@@ -48,7 +48,7 @@ class ItemDetails extends React.Component{
                     </div>
                     <div className="meal-recipe col-6">
                         <div>
-                            <h1>Meal recipe</h1>
+                            <h1>Meal recipee</h1>
                         </div>
                         <div>
                             <h3>{this.state.itemDetails.strInstructions}</h3> 
