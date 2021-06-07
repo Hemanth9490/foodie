@@ -11,7 +11,7 @@ function App() {
         <Router>
             <div>
                 <Navbar/>
-         
+                <h1>Helolo world</h1>
                 <Bodysection/>
                 <Footer/>
             </div>
